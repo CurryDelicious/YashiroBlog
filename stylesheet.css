@@ -1,0 +1,31 @@
+header{
+    background-color:#4169e1;
+    color:#ffffff;
+    font-family:cursive;
+    padding:10px;
+}
+
+.photo{
+    margin-bottom: 0px;
+}
+
+.introduce{
+    background-color: #87cefa;
+    padding: 10px;
+    font-family: cursive;
+    margin-top: 0px;
+}
+
+.post{
+    background-color:#add8e6;
+    font-family: cursive;
+    padding: 10px;
+}
+
+.title{
+    border-bottom: 1px solid #000080;
+}
+
+.date{
+    text-align: right;
+}
